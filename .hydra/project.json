@@ -12,7 +12,7 @@
     "inputs": {
         "src": {
             "type": "git",
-            "value": "https://github.com/DeterminateSystems/hydra-github-jobsets-example-project",
+            "value": "https://github.com/DeterminateSystems/hydra-github-jobsets-example-project.git initial-implementation",
             "emailresponsible": false
         },
         "generator": {
