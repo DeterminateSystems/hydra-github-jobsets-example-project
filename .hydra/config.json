@@ -1,9 +1,3 @@
 {
-    "inputs": {
-        "nixpkgs": {
-            "type": "git",
-            "value": "git://github.com/NixOS/nixpkgs.git nixos-unstable-small",
-            "emailresponsible": false
-        }
-    }
+    "flakes": true
 }
