@@ -10,9 +10,9 @@
     "emailoverride": "",
     "keepnr": 3,
     "inputs": {
-        "src": {
+        "generator_config": {
             "type": "git",
-            "value": "https://github.com/DeterminateSystems/hydra-github-jobsets-example-project",
+            "value": "https://github.com/DeterminateSystems/hydra-github-jobsets-example-project pr-no-null-flake",
             "emailresponsible": false
         },
         "generator": {
